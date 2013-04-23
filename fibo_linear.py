@@ -3,6 +3,9 @@
 # Using a memoization decorator hack to compute fibonacci sequence in near
 # linear time
 #
+# Came across this at
+# http://www.quora.com/Python-programming-language-1/What-are-common-uses-of-Python-decorators
+#
 
 import sys
 #Hack to increase the recursion limit
