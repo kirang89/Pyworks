@@ -1,0 +1,7 @@
+Name(str),Age(int),Grade(float)
+
+Kiran,24,99.2
+Ram,23,96.1
+Kevin,24,93.4
+Jay,24,99.56
+Lavs,23,99.999
