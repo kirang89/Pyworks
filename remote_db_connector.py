@@ -1,9 +1,17 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-#
-# Simple script to connect to a remote mysql database
-#
+############################################################
+#                                                          #
+# Simple script to connect to a remote mysql database      #
+#                                                          #
+#                                                          #
+# Install MySQLdb package by running:                      #
+#                                                          #
+#                       pip install MySQL-python           #
+#                                                          #
+############################################################
+
 
 import MySQLdb as db
 
